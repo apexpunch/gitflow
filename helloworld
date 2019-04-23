@@ -1,0 +1,6 @@
+#!/bin/bash
+#Mydsdf comment!!g 
+echo "Текущая дира:"
+pwd
+echo "Текущий юзор:"
+whoami
